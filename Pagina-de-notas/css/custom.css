@@ -1,0 +1,25 @@
+h1, h2 {
+    text-align: center;
+}
+
+#contenido {
+    margin-top: 40px;
+}
+.borrar-nota,
+.borrar-nota:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
+
+input:focus { 
+    outline: none !important;
+    border-color: yellow;
+    box-shadow: 0 0 10px yellow;
+}
+textarea:focus { 
+    outline: none !important;
+    border-color: yellow;
+    box-shadow: 0 0 10px yellow;
+}
