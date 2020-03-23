@@ -1,2 +1,2 @@
-# proyectos-javascript
-Varios proyectos de Javascript y NodeJs
+# Página de notas 
+Utiliza Local Storage para guardar las notas. También las borra.
